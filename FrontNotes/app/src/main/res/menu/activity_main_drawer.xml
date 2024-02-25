@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:title="@string/Inicio" />
+        <item
+            android:id="@+id/nav_perfil"
+            android:title="@string/Perfil" />
+        <item
+            android:id="@+id/nav_notas_favoritas"
+            android:title="@string/Notas_Favoritas" />
+        <item
+            android:id="@+id/nav_ordenar_notas"
+            android:title="@string/Ordenar_Notas" />
+        <item
+            android:id="@+id/nav_calendario"
+            android:title="@string/Calendario" />
+        <item
+            android:id="@+id/nav_mapa"
+            android:title="@string/Mapa" />
+
+    </group>
+</menu>

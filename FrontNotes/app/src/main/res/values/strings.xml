@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Front-Notes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Inicio">Inicio</string>
+    <string name="Perfil">Perfil</string>
+    <string name="Notas_Favoritas">Notas Favoritas</string>
+    <string name="Ordenar_Notas">Ordenar Notas</string>
+    <string name="Calendario">Calendario</string>
+    <string name="Mapa">Mapa</string>
+</resources>
